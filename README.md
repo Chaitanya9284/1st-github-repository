@@ -1,3 +1,4 @@
 # 1st-github-repository
-starting learning github.
-Author - chaitanay shinde
+Starting learning GitHub.
+<br>
+Author - Chaitanay Shinde
